@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Great app </string>
+    <string name="Fact1">Fact No. 1</string>
+    <string name="Fact2">Fact No. 2</string>
+    <string name="Fact3">Fact No. 3</string>
+    <string name="Fact4">Fact No. 4</string>
+    <string name="Fact5">Fact No. 5</string>
+    <string name="Fact6">Fact No. 6</string>
+    <string name="Fact7">Fact No. 7</string>
+    <string name="Fact8">Fact No. 8</string>
+    <string name="Fact9">Fact No. 9</string>
+    <string name="Fact10">Fact No. 10</string>
+
+    <string name="button">Check source website</string>
+    <string name="button2">Check more facts</string>
+
+
+    <string name="Fact1long">You think Motorola is just following the crowd? Think again, because they don’t only make great phones, they are one of the most important companies in mobile communications. Motorola invented the very first car radio in 1930, a device that was initially only meant for the police (in the USA), and later evolved into two-way communication systems.</string>
+    <string name="Fact2long">Fast-forward 10 years and two-way radios no longer had to be attached to a vehicle in order to operate. Mobile communications became untethered with the introduction of the SCR-300, the first walkie-talkie.  You have seen those huge backpacks soldiers from World War II were carrying, right? Yep, that’s it. By today’s standard, that is not really a mobile device. It is a huge, heavy backpack, but imagine the impact that had in the battlefield.</string>
+    <string name="Fact3long">Nokia may have the best-selling phone, while companies like Samsung and Apple currently rule the market, but when we think of innovation it is Motorola we should keep in mind. The company invented the very first cellphone. It was called the DynaTAC 8000x and was launched in 1983.
+Ten years before, the first cellphone call was made. There’s actually a bit of a curious story to this. This call was made by Motorola employee Martin Cooper, in New York. He contacted AT T’s Joel Engel. You know, just to let him know that the first cellphone call was being made, and it wasn’t by them.</string>
+    <string name="Fact4long">You have all heard Neil Armstrong’s famous words, right? When he became the first human being to step foot on the moon he said: “One small step for a man, one giant leap for mankind”. Well, Motorola was there to provide the radio transponder that was used to send those words to planet earth.</string>
+    <string name="Fact5long">Well, at least the mobile division is. You are more likely to know this one, but just in case you have been living under a rock – Motorola Mobility was the product of a separation from Motorola Inc. Motorola Mobility was then acquired by Google for $12.5 billion, only to be resold to Lenovo in 2014.</string>
+    <string name="Fact6long">Motorola falls behind manufacturers like Nokia and Samsung when it comes to top-selling handsets, but it sure beats Apple’s popular iPhone 6 and 6 Plus. The Motorola RAZR was king of the US market and continues to be the best-selling clamshell handset, with over 130 million units sold. In comparison, the iPhone 6 and 6 Plus only managed to hit 100 million, altogether.</string>
+
+    <string name="Fact7long">Continuing its mobile innovation roll, Motorola was also the first to release a pager, in 1956. They called it the Handie-Talkie radio pager, and it was mostly used in hospitals to send messages within a range of 40 km.</string>
+    <string name="Fact8long">As we mentioned in the first interesting fact listed here, Motorola’s business began with car radios. This is actually where the name came from. Motor obviously stands for its vehicular links, while ola was simply a popular ending for names during the time. Before this, Motorola was known as the Galin Manufacturing Corporation.</string>
+    <string name="Fact9long">The Motorola iDEN i1000 Plus was the first smartphone to incorporate mobile browsing, as well as email and alphanumeric characters. Of course, it could also make calls, send messages, send faxes, act as a radio and more.</string>
+    <string name="Fact10long">Motorola’s well known logo, designed by Zeke Ziner, was introduced in 1955. The M insignia, or ’emsignia’, with its two triangle peaks “typified the progressive leadership-minded outlook of the company.”</string>
+
+    <string name="originalsource">You can find even more interesting facts connected to Motorola in this article:</string>
+</resources>
