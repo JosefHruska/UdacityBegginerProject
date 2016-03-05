@@ -11,7 +11,10 @@ import android.widget.TextView;
 import static android.content.Intent.ACTION_VIEW;
 
 public class MainActivity extends AppCompatActivity {
-    int factsSet = 0;
+
+    private int factsSet = 0;
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -19,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+    //* Open original webpage, where you can find more stuff.
     public void sourceWebsite (View view){
         String url = "http://www.androidauthority.com/google-play-store-apple-app-store-downloads-673499/";
         Intent intent = new Intent(ACTION_VIEW, Uri.parse(url));
@@ -26,7 +30,9 @@ public class MainActivity extends AppCompatActivity {
             startActivity(intent);
         }
     }
-    public void changetext (View view){
+    //It will replace default texts and pictures,
+    //if it's already replaced it will show you default stuff instead
+    public void changeText (View view){
 
 
         TextView tv1 = (TextView) findViewById(R.id.textView1);
@@ -47,6 +53,7 @@ public class MainActivity extends AppCompatActivity {
         ImageView iv4 = (ImageView) findViewById(R.id.imageView4);
         ImageView iv5 = (ImageView) findViewById(R.id.imageView5);
 
+        //Original set of facts is showed
         if (factsSet == 0) {
             factsSet = 1;
 
@@ -68,6 +75,7 @@ public class MainActivity extends AppCompatActivity {
             tv4.setText(R.string.Fact9long);
             tv5.setText(R.string.Fact10long);
         }
+        //Topics are already changed
         else {
         factsSet = 0;
 

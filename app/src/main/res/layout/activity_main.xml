@@ -170,7 +170,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:onClick="changetext"
+        android:onClick="changeText"
         android:text="@string/button2"
         android:id="@+id/button2"
         android:layout_above="@+id/textView17"
