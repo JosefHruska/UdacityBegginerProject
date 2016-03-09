@@ -1,4 +1,5 @@
 <resources>
+    <string name="title">"Stuff you should know about Motorola"</string>
     <string name="app_name">Great app </string>
     <string name="Fact1">Fact No. 1</string>
     <string name="Fact2">Fact No. 2</string>
