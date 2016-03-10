@@ -19,8 +19,8 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerHorizontal="true"
-            android:layout_marginBottom="20sp"
-            android:height="30sp"
+            android:layout_marginBottom="20dp"
+            android:height="30dp"
             android:elegantTextHeight="false"
             android:text="@string/title"
             android:textSize="20sp" />
@@ -32,8 +32,8 @@
             android:layout_alignParentLeft="true"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
-            android:layout_marginTop="35sp"
-            android:paddingTop="15sp"
+            android:layout_marginTop="35dp"
+            android:paddingTop="15dp"
             android:text="@string/Fact1" />
 
         <TextView
@@ -52,7 +52,7 @@
             android:layout_alignParentLeft="true"
             android:layout_alignParentStart="true"
             android:layout_below="@+id/textView01"
-            android:layout_marginTop="81sp"
+            android:layout_marginTop="81dp"
             android:src="@drawable/radio_car" />
 
         <TextView
@@ -98,7 +98,7 @@
             android:layout_alignParentLeft="true"
             android:layout_alignParentStart="true"
             android:layout_below="@+id/imageView1"
-            android:layout_marginTop="27sp"
+            android:layout_marginTop="27dp"
             android:text="@string/Fact2long" />
 
         <ImageView
@@ -122,7 +122,7 @@
         <ImageView
             android:id="@+id/imageView3"
             android:layout_width="wrap_content"
-            android:layout_height="250sp"
+            android:layout_height="250dp"
             android:layout_alignParentLeft="true"
             android:layout_alignParentStart="true"
             android:layout_below="@+id/textView3"
@@ -140,7 +140,7 @@
         <ImageView
             android:id="@+id/imageView4"
             android:layout_width="wrap_content"
-            android:layout_height="240sp"
+            android:layout_height="240dp"
             android:layout_alignParentLeft="true"
             android:layout_alignParentStart="true"
             android:layout_below="@+id/textView4"
@@ -156,11 +156,11 @@
         <ImageView
             android:id="@+id/imageView5"
             android:layout_width="wrap_content"
-            android:layout_height="260sp"
+            android:layout_height="260dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentRight="true"
             android:layout_below="@+id/textView5"
-            android:paddingBottom="40sp"
+            android:paddingBottom="40dp"
             android:src="@drawable/lenovo" />
 
         <Button
@@ -179,7 +179,7 @@
             android:layout_above="@+id/textView17"
             android:layout_centerHorizontal="true"
             android:onClick="changeText"
-            android:paddingTop="0sp"
+            android:paddingTop="0dp"
             android:text="@string/button2" />
 
         <TextView
